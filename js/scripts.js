@@ -14,8 +14,5 @@ $(document).ready(function(){
     else {
       alert("bro you trippin!");
     }
-
-
-
   });
 });
